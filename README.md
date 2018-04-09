@@ -3,6 +3,7 @@ CSCI183 Group 8 Project--
 Haruto Nakai, Alma Niu, Jonathan Pak
 
 --Contents:
+
 -flu_annotations: folder containing source training data
 	-RelatedVsNotRelated2009TweetIds.txt: collection of tweet IDs from 2009 and its relatedness to Influenza
 	-RelatedVsNotRelated2012TweetIds.txt: collection of tweet IDs from 2012 and its relatedness to Influenza
