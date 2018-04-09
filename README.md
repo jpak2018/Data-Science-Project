@@ -5,9 +5,13 @@ Haruto Nakai, Alma Niu, Jonathan Pak
 --Contents:
 
 -flu_annotations: folder containing source training data
+
 	-RelatedVsNotRelated2009TweetIds.txt: collection of tweet IDs from 2009 and its relatedness to Influenza
+	
 	-RelatedVsNotRelated2012TweetIds.txt: collection of tweet IDs from 2012 and its relatedness to Influenza
+	
 	-retrievedTexts3.csv: tweets retrieved from IDs from 2009
+	
 	-retrievedTexts4.csv: tweets retrieved from IDs from 2012
 -retrivedTexts2.csv: joining of 2 csvs above
 -fetchFluTweets.py: Gets up to 5000 tweets from the last 7 days, in the SF Bay Area, with a certain keyword, and puts them into a csv file.
