@@ -25,3 +25,4 @@ Haruto Nakai, Alma Niu, Jonathan Pak
 -Group 8 Tweet Code.ipyb: Jupyter notebook code for project.
 	-Runs tests on Naive Bayes and Logistic Regression sorting algorithm trained with data from retrievedTexts2.csv
 	-Runs tests on Naive Bayes sorting algorithm from above with data from fluTweets[1..6]
+-Final Project Paper: Final Research Paper on what we learned and concluded from our training and testing
